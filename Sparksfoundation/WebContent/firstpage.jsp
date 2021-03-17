@@ -159,7 +159,7 @@ ResultSet resultSet = null;
         <div class="second-part">
         <div>
            		<form>
-                <button formaction="homepage.jsp">
+                <button formaction="index.jsp">
                     HOME
                 </button>
                 </form>
